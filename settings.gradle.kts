@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ThirdLessonAnalysisOfThePoem"
-include ':app'
+
+rootProject.name = "App3"
+include(":app")
+ 

@@ -1,4 +1,4 @@
-package com.msaggik.thirdlessonanalysisofthepoem;
+package com.example.app3;
 
 import org.junit.Test;
 
